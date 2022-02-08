@@ -1,5 +1,5 @@
 // <----- bts7960 functions ----->
-
+// test... editing inside Github - Scott
 /* think we want 1 function that includes all this in a mathamatical way IE 
  * clockwise
 void motor_cw(int value) {
